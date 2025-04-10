@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://joyce0613.github.io/whatwasimadefor/sitemap.xml

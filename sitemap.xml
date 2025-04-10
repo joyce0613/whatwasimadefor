@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://joyce0613.github.io/whatwasimadefor/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://joyce0613.github.io/whatwasimadefor/</loc>
+</url>
+<url>
+<loc>https://joyce0613.github.io/whatwasimadefor/bibliography/</loc>
+<lastmod>2025-04-10T12:06:01-04:00</lastmod>
+</url>
+<url>
+<loc>https://joyce0613.github.io/whatwasimadefor/blog/</loc>
+<lastmod>2025-04-10T12:05:39-04:00</lastmod>
+</url>
+<url>
+<loc>https://joyce0613.github.io/whatwasimadefor/critical-reading-assignment/</loc>
+<lastmod>2025-04-10T12:28:39-04:00</lastmod>
+</url>
+<url>
+<loc>https://joyce0613.github.io/whatwasimadefor/end-page/</loc>
+<lastmod>2025-04-10T12:05:45-04:00</lastmod>
+</url>
+<url>
+<loc>https://joyce0613.github.io/whatwasimadefor/introduction/</loc>
+<lastmod>2025-04-10T12:04:47-04:00</lastmod>
+</url>
+<url>
+<loc>https://joyce0613.github.io/whatwasimadefor/music-review/</loc>
+<lastmod>2025-04-10T12:27:26-04:00</lastmod>
+</url>
+<url>
+<loc>https://joyce0613.github.io/whatwasimadefor/music-video-and-lyrics/</loc>
+<lastmod>2025-04-10T12:32:33-04:00</lastmod>
+</url>
+<url>
+<loc>https://joyce0613.github.io/whatwasimadefor/playlist-and-listening-guide/</loc>
+<lastmod>2025-04-10T12:05:25-04:00</lastmod>
+</url>
+</urlset>
